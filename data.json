@@ -1,0 +1,411 @@
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+			"correct_answer": "Acetone",
+			"incorrect_answers": [
+				"Water",
+				"Mercury",
+				"Benzene"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many members are in the Japanese rock band SCANDAL?",
+			"correct_answer": "4",
+			"incorrect_answers": [
+				"5",
+				"2",
+				"18"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Television",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which of these Bojack Horseman characters is a human?",
+			"correct_answer": "Todd Chavez",
+			"incorrect_answers": [
+				"Lennie Turtletaub",
+				"Princess Carolyn",
+				"Tom Jumbo-Grumbo"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Art",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Who painted the Mona Lisa?",
+			"correct_answer": "Leonardo da Vinci",
+			"incorrect_answers": [
+				"Pablo Picasso",
+				"Claude Monet",
+				"Vincent van Gogh"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Politics",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Which of these is NOT one of Donald Trump&#039;s children?",
+			"correct_answer": "Julius",
+			"incorrect_answers": [
+				"Donald Jr.",
+				"Ivanka",
+				"Eric"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Music",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?",
+			"correct_answer": "The Black Mages",
+			"incorrect_answers": [
+				"The Final Fantasies",
+				"The Espers",
+				"The Rock Summoners"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+			"correct_answer": "Lamentation",
+			"incorrect_answers": [
+				"Galvanized Atomic Lead Insertion Liquidator",
+				"Gabig",
+				"Predictive Death Wish"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+			"correct_answer": "31-79 JGb215",
+			"incorrect_answers": [
+				"Sliquifier",
+				"V-R11",
+				"Wunderwaffe DG-2"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the name of the only remaining Grand Duchy in the world ?",
+			"correct_answer": "Luxembourg",
+			"incorrect_answers": [
+				"Montenegro",
+				"Liechtenstein",
+				"Andorra"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Cartoon & Animations",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "When did the last episode of &quot;Futurama&quot; air?",
+			"correct_answer": "September 4, 2013",
+			"incorrect_answers": [
+				"December 25, 2010",
+				"March 28, 1999",
+				"On Going"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is the star sign of someone born on Valentines day?",
+			"correct_answer": "Aquarius",
+			"incorrect_answers": [
+				"Pisces",
+				"Capricorn",
+				"Scorpio"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Kuala Lumpur is the capital of which country?",
+			"correct_answer": "Malaysia",
+			"incorrect_answers": [
+				"Indonesia",
+				"Singapore",
+				"Thailand"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Animals",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Which class of animals are newts members of?",
+			"correct_answer": "Amphibian",
+			"incorrect_answers": [
+				"Fish",
+				"Reptiles",
+				"Mammals"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Books",
+			"type": "boolean",
+			"difficulty": "medium",
+			"question": "Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",
+			"correct_answer": "True",
+			"incorrect_answers": [
+				"False"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Science & Nature",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the speed of light in a vacuum?",
+			"correct_answer": "299,792,458 m\/s",
+			"incorrect_answers": [
+				"50,461 m\/s",
+				"308,215,043 m\/s",
+				"751,665,014,151 m\/s"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Geography",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "Where is the world&#039;s oldest still operational space launch facility located?",
+			"correct_answer": "Kazakhstan",
+			"incorrect_answers": [
+				"Russia",
+				"Iran",
+				"United States"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "What is the maximum HP in Terraria?",
+			"correct_answer": "500",
+			"incorrect_answers": [
+				"400",
+				"1000",
+				"100"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Sports",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+			"correct_answer": "13",
+			"incorrect_answers": [
+				"11",
+				"20",
+				"22"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "General Knowledge",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What is a Burgee?",
+			"correct_answer": "A flag",
+			"incorrect_answers": [
+				"A rope",
+				"A window",
+				"A type of food"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Board Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?",
+			"correct_answer": "Blinkmoth Infusion",
+			"incorrect_answers": [
+				"Vitalizing Wind",
+				" Chant of Vitu-Ghazi",
+				"Assert Authority"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "History",
+			"type": "multiple",
+			"difficulty": "hard",
+			"question": "The ontological argument for the proof of God&#039;s existence is first attributed to whom?",
+			"correct_answer": "Anselm of Canterbury",
+			"incorrect_answers": [
+				"Ren&eacute; Descartes",
+				"Immanuel Kant",
+				"Aristotle"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Politics",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "The largest consumer market in 2015 was...",
+			"correct_answer": "The United States of America",
+			"incorrect_answers": [
+				"Germany",
+				"Japan",
+				"United Kingdom"
+			]
+		}
+	]
+}
+
+{
+	"response_code": 0,
+	"results": [
+		{
+			"category": "Entertainment: Video Games",
+			"type": "multiple",
+			"difficulty": "medium",
+			"question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
+			"correct_answer": "11037",
+			"incorrect_answers": [
+				"4, 8, 15, 16, 23, 42",
+				"55730",
+				"3, 9, 11, 12, 15, 17,"
+			]
+		}
+	]
+}
